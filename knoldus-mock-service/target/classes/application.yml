@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: Knoldus_Mock_Service
+server:
+  port: 8081
